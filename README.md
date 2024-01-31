@@ -2,7 +2,7 @@
 Here in this Repository it is intended to find if there is any correlation Between Missense Intolerant Region with Intrinsically Disordered Region Using MTR Dataset.
 
 ## Introduction
-With the recent technological advancments now exome sequencing is becoming a routine tool to guide personalized medicine of genetic diseases [[1,2]](#1)
+With the recent technological advancments now exome sequencing is becoming a routine tool to guide personalized medicine of genetic diseases [[1]](#1),[[2]](#2)
 
 ## MTR-Viewer: identifying regions within genes under purifying selection
 In 2019 a research has been conducted by Silk M, Petrovski S and Ascher DB to find the regions within genes under purifying selection [[3]](#3). This research has been published by Oxford University Press on behalf of Nucleic Acids Research.
