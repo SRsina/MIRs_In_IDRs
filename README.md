@@ -2,7 +2,7 @@
 Here in this Repository it is intended to find if there is any correlation Between Missense Intolerant Region with Intrinsically Disordered Region Using MTR Dataset.
 
 ## Introduction
-With the recent technological advancements now exome sequencing is becoming a routine tool to guide personalized medicine of genetic diseases [[1,2]](#1), and this has lead to an increase in our knowledge about pathogenetic variants inside human exome but still loads of variants has been clasified as uncertain significance.[3-5](#3)
+With the recent technological advancements now exome sequencing is becoming a routine tool to guide personalized medicine of genetic diseases [1,2](#1), and this has lead to an increase in our knowledge about pathogenetic variants inside human exome but still loads of variants has been clasified as uncertain significance.[3-5](#3)
 Many *In silico* Methods has been developed to resolve this problem, but it remains a major challenge to discriminate pathogenic from benign variants [6](#6)
 
 
