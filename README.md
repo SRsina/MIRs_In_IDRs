@@ -4,8 +4,7 @@ Here in this Repository it is intended to find if there is any correlation Betwe
 ## Introduction
 With the recent technological advancements now exome sequencing is becoming a routine tool to guide personalized medicine of genetic diseases [[1,2]](#1), and this has lead to an increase in our knowledge about pathogenetic variants inside human exome but still loads of variants has been clasified as uncertain significance.[3-5](#3)
 Many *In silico* Methods has been developed to resolve this problem, but it remains a major challenge to discriminate pathogenic from benign variants [6](#6)
-These Methods are classidfied in 3 major Group [7](#7):
-*1)* 
+
 
 ## MTR-Viewer: identifying regions within genes under purifying selection
 In 2019 a research has been conducted by Silk M, Petrovski S and Ascher DB to find the regions within genes under purifying selection [[10]](#10). This research has been published by Oxford University Press on behalf of Nucleic Acids Research.
@@ -44,12 +43,8 @@ Stenson PD, Ball EV, Mort M, Phillips AD, Shiel JA, Thomas NS, Abeysinghe S, Kra
 <a id="6">[6]</a> 
 MacArthur DG, Manolio TA, Dimmock DP, Rehm HL, Shendure J, Abecasis GR, Adams DR, Altman RB, Antonarakis SE, Ashley EA, Barrett JC, Biesecker LG, Conrad DF, Cooper GM, Cox NJ, Daly MJ, Gerstein MB, Goldstein DB, Hirschhorn JN, Leal SM, Pennacchio LA, Stamatoyannopoulos JA, Sunyaev SR, Valle D, Voight BF, Winckler W, Gunter C. Guidelines for investigating causality of sequence variants in human disease. Nature. 2014 Apr 24;508(7497):469-76. doi: 10.1038/nature13127. PMID: 24759409; PMCID: PMC4180223.
 
-<a id="7">[7]</a> 
-?
+
 
 <a id="10">[10]</a> 
 Silk M, Petrovski S, Ascher DB. MTR-Viewer: identifying regions within genes under purifying selection. Nucleic Acids Res. 2019 Jul 2;47(W1):W121-W126. doi: 10.1093/nar/gkz457. PMID: 31170280; PMCID: PMC6602522.
 
-
-
-It is intended to Use the Results that has been achived by them To Answer a question which can be intresting to whom working with Interinsically disorder 
